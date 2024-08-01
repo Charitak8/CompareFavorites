@@ -10,3 +10,6 @@ Create a histogram and use a print statement to describe it and create a scatter
 •	Panda library to read data from CSV
 •	Matplotlib library for Create data visualizations - Histogram and Scatter plot
 
+![image](https://github.com/user-attachments/assets/ecaf3c74-f421-41b2-b71b-f58ca2ca3634)
+
+![image](https://github.com/user-attachments/assets/f8acd26b-5322-4850-afd2-c5ec974e4459)
